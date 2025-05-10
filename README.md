@@ -71,15 +71,15 @@ It was a great chance to get more confident with network requests, model-view se
 </ul>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3287aa3d-8aa4-4d24-8eb4-d500813a2260" alt="Dark Mode - Weather App" width="250"/>
+  <img src="https://github.com/user-attachments/assets/18b831c8-f26c-419d-a5f9-d93cacfcb7f3" alt="Dark Mode - Weather App" width="250"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9e1642cb-0481-4c81-9308-8aed8cdf3c4a" alt="Light Mode - Weather App" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8037e4ae-68d4-4dea-aec5-a932030195a3" alt="Light Mode - Weather App" width="250"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
   <em>
-    <strong>Left: Dark Mode</strong> — shows the weather for Paris with sunset colors and dark background.<br/>
-    <strong>Right: Light Mode</strong> — same layout in light theme. Both screens include the search bar, current location button, weather icon, and temperature.
+    <strong>Left: Dark Mode</strong> — shows the weather with a dark background.<br/>
+    <strong>Right: Light Mode</strong> — same layout with a light theme. Both screens include search bar, location button, weather icon, and temperature display.
   </em>
 </p>
 
